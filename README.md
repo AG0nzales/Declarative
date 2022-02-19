@@ -1,34 +1,34 @@
 # **Declarative Programming Languages used**
 
 ## **HTML**
->C# was created by a Microsoft development team led by Anders Hejlsberg. Anders Hejlsberg had previously worked on Embarcadero Delphi and Turbo Pascal. In January 1999, the development process began. COOL was the initial name given to the language.
+>Tim Berners-Lee created the first version of HTML in 1993. There have been many different versions of HTML since then. HTML 4.01, which became an official standard in December 1999, was the most widely used version throughout the 2000s. Another version, XHTML, was an XML-based rewrite of HTML.
 
 - ### **Compute the sum of numbers**
 
-![](Imperative%20Screenshots/Sum.png)
+![](Declarative%20Screenshots/HTMLSum.png)
 
 - ### **Compute the average of numbers**
 
-![](Imperative%20Screenshots/Average.png)
+![](Declarative%20Screenshots/HTMLAverage.png)
 
 - ### **List the numbers less than 10**
 
-![](Imperative%20Screenshots/lessTen.png)
+![](Declarative%20Screenshots/HTMLlessTen.png)
 
 ## **SQL**
 
->Ruby was created in the mid-1990s in Japan by Yukihiro Matsumoto, also known as "Matz." It was created with the idea that programming should be enjoyable for programmers in mind. It emphasizes the importance of software being understandable by humans first and computers second.
+>Dr. E. F. Codd published the paper, "A Relational Model of Data for Large Shared Data Banks", in June 1970 in the Association of Computer Machinery (ACM) journal, Communications of the ACM. Codd's model is now accepted as the definitive model for relational database management systems (RDBMS).
 
 
 - ### **Compute the sum of numbers**
 
-![](Imperative%20Screenshots/RubySum.png)
+![](Imperative%20Screenshots/SQLSum.png)
 
 - ### **Compute the average of numbers**
 
-![](Imperative%20Screenshots/RubyAverage.png)
+![](Imperative%20Screenshots/SQLAverage.png)
 
 - ### **List the numbers less than 10**
 
-![](Imperative%20Screenshots/lessTenRuby.png)
+![](Imperative%20Screenshots/SQLLessTen.png)
 
