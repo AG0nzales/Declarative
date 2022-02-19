@@ -22,13 +22,13 @@
 
 - ### **Compute the sum of numbers**
 
-![](Imperative%20Screenshots/SQLSum.png)
+![](Declarative%20Screenshots/SQLSum.png)
 
 - ### **Compute the average of numbers**
 
-![](Imperative%20Screenshots/SQLAverage.png)
+![](Declarative%20Screenshots/SQLAverage.png)
 
 - ### **List the numbers less than 10**
 
-![](Imperative%20Screenshots/SQLLessTen.png)
+![](Declarative%20Screenshots/SQLLessTen.png)
 
